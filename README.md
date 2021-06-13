@@ -1,4 +1,4 @@
 - Hi my name is Lev and I'm a freelancing full stack dev who can utilize just about any language well though my main stack is more suitable for node js projects and web development
-- You can contact me at LevConte@LevBen.dev
+- You can contact me at *currently unavailable*
 - Find my portfolio at levben.dev as well as pricing for web projects
 - (website under construction as of 4/23/2021)
